@@ -1,0 +1,3 @@
+# Predictions of Arm Import per country based on UN speeches
+
+In this project we analyze the speeches of the United Nations General Assembly between 1970 and 2020. We consider if the United States became more or less vocal about war participants over the years in their UN speeches. We find that specific events influence the amount of mentions heavily making it difficult to conclude the question. However, there are some signs that it is the case. We also try to determine a connection between the wording and sentiment of a country’s speech and the country’s arms imports. We find that the wording can be applied generally across countries, while the sentiment analysis is only useful for select countries to predict arms imports.
